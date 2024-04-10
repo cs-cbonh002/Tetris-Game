@@ -8,4 +8,52 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Assests\Background.png" />
+    <None Remove="Assests\Block-Empty.png" />
+    <None Remove="Assests\Block-I.png" />
+    <None Remove="Assests\Block-J.png" />
+    <None Remove="Assests\Block-L.png" />
+    <None Remove="Assests\Block-O.png" />
+    <None Remove="Assests\Block-S.png" />
+    <None Remove="Assests\Block-T.png" />
+    <None Remove="Assests\Block-Z.png" />
+    <None Remove="Assests\Icon.ico" />
+    <None Remove="Assests\TileBlue.png" />
+    <None Remove="Assests\TileCyan.png" />
+    <None Remove="Assests\TileEmpty.png" />
+    <None Remove="Assests\TileGreen.png" />
+    <None Remove="Assests\TileOrange.png" />
+    <None Remove="Assests\TilePurple.png" />
+    <None Remove="Assests\TileRed.png" />
+    <None Remove="Assests\TileYellow.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assests\TileOrange.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assests\TileEmpty.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assests\Background.png" />
+    <Resource Include="Assests\Block-Empty.png" />
+    <Resource Include="Assests\Block-I.png" />
+    <Resource Include="Assests\Block-J.png" />
+    <Resource Include="Assests\Block-L.png" />
+    <Resource Include="Assests\Block-O.png" />
+    <Resource Include="Assests\Block-S.png" />
+    <Resource Include="Assests\Block-T.png" />
+    <Resource Include="Assests\Block-Z.png" />
+    <Resource Include="Assests\Icon.ico" />
+    <Resource Include="Assests\TileBlue.png" />
+    <Resource Include="Assests\TileCyan.png" />
+    <Resource Include="Assests\TileGreen.png" />
+    <Resource Include="Assests\TilePurple.png" />
+    <Resource Include="Assests\TileRed.png" />
+    <Resource Include="Assests\TileYellow.png" />
+  </ItemGroup>
+
 </Project>
