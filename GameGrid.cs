@@ -78,7 +78,7 @@ namespace Tetris
         {
             int cleared = 0; 
 
-            for (int r = Rows-1; r >= 0; r==)
+            for (int r = Rows-1; r >= 0; r--)
             {
                 if (IsRowFull(r))
                 {
